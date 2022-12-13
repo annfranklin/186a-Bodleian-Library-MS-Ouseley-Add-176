@@ -1,5 +1,5 @@
-$("div#contents").animate({scrollTop: (areaTop+100) + "px"});// 
 {"type":"FeatureCollection", "features":[
+  $("div#contents").animate({scrollTop: (areaTop+100) + "px"});// 
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 186a",
