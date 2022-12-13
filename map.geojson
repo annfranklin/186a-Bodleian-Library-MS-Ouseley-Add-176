@@ -1,5 +1,4 @@
 {"type":"FeatureCollection", "features":[
-  $("div#contents").animate({scrollTop: (areaTop+100) + "px"});// 
   {"type":"Feature","properties":
     {"id":1,
     "chapter":"Bodleian Library MS. Ouseley Add. 176 fol. 186a",
@@ -66,4 +65,5 @@
     "zoom":2,
     "description":"Franklin, Ann (Researcher, Scriptwriter, Storyboarder, Audio Editor, Image Editor) and Hussein Keshani (Coder). “Rustam asks Bizhan to forgive Gurgin.” In Ibrahim Sultan’s Shahnama: A Digital Art History Student Project, edited by Hussein Keshani, November 30, 2022."},
     "geometry":{"type":"Point","coordinates":[2745,659]}}
+  $("div#contents").animate({scrollTop: (areaTop+100) + "px"});// 
     ]}
